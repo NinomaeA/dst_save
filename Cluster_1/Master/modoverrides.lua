@@ -25,7 +25,8 @@ return {
       malbatross=false,
       tip_method=1,
       toadstool=false
-    }
+    },
+    enabled=true
   },
   ["workshop-2283028733"]={
     configuration_options={

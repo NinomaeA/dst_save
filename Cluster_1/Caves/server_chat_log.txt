@@ -1,64 +1,16 @@
-[00:07:08]: [Join Announcement] 炽热搏斗者
-[00:09:26]: [Leave Announcement] 炽热搏斗者
-[04:33:46]: [Join Announcement] 1564987859
-[04:41:22]: [Leave Announcement] 1564987859
-[19:33:57]: [Join Announcement] 炽热搏斗者
-[19:34:30]: [Vote Announcement] regenerate passed
-[20:10:30]: [Vote Announcement] rollback passed
-[20:52:22]: [Leave Announcement] 炽热搏斗者
-[21:07:44]: [Join Announcement] 炽热搏斗者
-[21:18:16]: [Skin Announcement] 炽热搏斗者 body_cardigan_white_ghost
-[21:29:24]: [Vote Announcement] rollback passed
-[22:34:58]: [Skin Announcement] 炽热搏斗者 hand_longgloves_black_scribble
-[22:35:24]: [Leave Announcement] 炽热搏斗者
-[00:46:11]: [Join Announcement] Mo
-[00:51:25]: [Leave Announcement] Mo
-[02:03:57]: [Join Announcement] 炽热搏斗者
-[02:07:29]: [Leave Announcement] 炽热搏斗者
-[02:23:48]: [Join Announcement] 炽热搏斗者
-[02:24:04]: [Vote Announcement] regenerate passed
-[02:40:18]: [Join Announcement] 927548194
-[02:58:15]: [Say] (KU_NEOnSNXU) 炽热搏斗者: 你是谁
-[02:59:00]: [Say] (KU_NEOnSNXU) 炽热搏斗者: 我吃饭去了
-[02:59:14]: [Leave Announcement] 炽热搏斗者
-[02:59:21]: [Say] (KU_ongKpj1A) 927548194: 我是老马
-[03:13:12]: [Join Announcement] 小伙伴们罩着我
-[03:20:30]: [Say] (KU_ongKpj1A) 927548194: gouyaolail
-[03:20:41]: [Say] (KU_ongKpj1A) 927548194: 狗
-[03:21:22]: [Death Announcement] 小伙伴们罩着我 死于： 黑暗。他变成了可怕的鬼魂！
-[03:22:31]: [Resurrect Announcement] 小伙伴们罩着我 复活自： 927548194.
-[03:22:46]: [Leave Announcement] 927548194
-[03:23:58]: [Leave Announcement] 小伙伴们罩着我
-[03:25:04]: [Join Announcement] 927548194
-[03:26:43]: [Join Announcement] 炽热搏斗者
-[03:30:53]: [Join Announcement] Mo
-[03:31:05]: [Say] (KU_NEOnSOgF) Mo: ！.！
-[03:38:26]: [Death Announcement] Mo 死于： 黑暗。他变成了可怕的鬼魂！
-[03:38:50]: [Say] (KU_NEOnSNXU) 炽热搏斗者: FIVE
-[03:38:50]: [Say] (KU_ongKpj1A) 927548194: 直接鬼魂票过来
-[03:40:09]: [Resurrect Announcement] Mo 复活自： 927548194.
-[03:46:52]: [Death Announcement] Mo 死于： 黑暗。他变成了可怕的鬼魂！
-[03:52:24]: [Leave Announcement] Mo
-[03:52:57]: [Vote Announcement] regenerate passed
-[03:54:44]: [Join Announcement] Mo
-[04:15:23]: [Skin Announcement] 炽热搏斗者 legs_wolfgang_wolfman
-[04:34:53]: [Skin Announcement] Mo body_trimmed_blouse_green_celadon
-[04:38:43]: [Skin Announcement] 927548194 legs_woodie_magma
-[04:50:02]: [Death Announcement] Mo 死于： 黑暗。他变成了可怕的鬼魂！
-[04:52:45]: [Resurrect Announcement] Mo 复活自： 试金石.
-[05:24:06]: [Leave Announcement] Mo
-[05:29:06]: [Leave Announcement] 927548194
-[05:45:25]: [Join Announcement] 927548194
-[05:51:44]: [Join Announcement] 小伙伴们罩着我
-[05:54:06]: [Join Announcement] Mo
-[05:58:40]: [Leave Announcement] 927548194
-[06:04:05]: [Leave Announcement] 炽热搏斗者
-[06:05:36]: [Join Announcement] 927548194
-[06:08:55]: [Join Announcement] 炽热搏斗者
-[06:09:23]: [Leave Announcement] 927548194
-[06:11:12]: [Leave Announcement] 炽热搏斗者
-[06:12:23]: [Death Announcement] Mo 死于： 饥饿。他变成了可怕的鬼魂！
-[06:14:23]: [Leave Announcement] 小伙伴们罩着我
-[06:14:36]: [Leave Announcement] Mo
-[20:52:18]: [Join Announcement] 炽热搏斗者
-[20:54:16]: [Leave Announcement] 炽热搏斗者
+[00:14:01]: [Join Announcement] 炽热搏斗者
+[04:03:54]: [Leave Announcement] 炽热搏斗者
+[04:11:16]: [Join Announcement] 炽热搏斗者
+[04:18:45]: [Join Announcement] 927548194
+[04:22:07]: [Leave Announcement] 927548194
+[04:23:47]: [Death Announcement] 炽热搏斗者 死于： 恐怖尖喙。她变成了可怕的鬼魂！
+[04:29:38]: [Join Announcement] Mo
+[04:44:09]: [Death Announcement] 炽热搏斗者 死于： 独眼巨鹿。她变成了可怕的鬼魂！
+[04:44:27]: [Vote Announcement] rollback passed
+[04:45:50]: [Say] (KU_NEOnSOgF) Mo: 摩西摩西
+[05:03:16]: [Leave Announcement] Mo
+[05:04:12]: [Join Announcement] Mo
+[05:05:23]: [Join Announcement] 悠悠轩宇
+[05:06:23]: [Leave Announcement] Mo
+[05:10:06]: [Kick Announcement] 悠悠轩宇
+[05:10:20]: [Leave Announcement] 炽热搏斗者
